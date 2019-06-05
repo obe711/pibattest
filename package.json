@@ -1,0 +1,24 @@
+{
+  "name": "pibattester",
+  "version": "1.0.0",
+  "description": "testing program to stress test battery life on pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obe711/pibattest.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "battery"
+  ],
+  "author": "Obediah Klopfenstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obe711/pibattest/issues"
+  },
+  "homepage": "https://github.com/obe711/pibattest#readme"
+}
