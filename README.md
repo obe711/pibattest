@@ -10,10 +10,17 @@ Test the runtime of a battery powering Raspberry Pi
 
 ## Run
 
-### SSH
-    
-1. SSH into Raspberry Pi
+From Pi
 
-2.  `cd pibattest`
+`cd pibattest`
     
-    `sudo node index.js`
+`sudo node index.js`
+
+## Check status
+
+1. SSH into Pi
+
+2. `cd pibattest`
+
+   `cat pibattest.log`
+
